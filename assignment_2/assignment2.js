@@ -19,3 +19,14 @@ Write a loop that makes seven calls to console.log to output the following trian
 ######
 #######
 */
+for(var i=1;i<8;i++){
+    var num = i;
+    var strg = "";
+    while (num>0){
+        strg=strg+"#";
+        num--
+    }
+    
+   console.log(strg) 
+
+}
