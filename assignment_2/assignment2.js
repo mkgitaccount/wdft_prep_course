@@ -2,7 +2,9 @@
 Exercise #1
 Create a for loop that prints out the numbers 1 to 100 in the console.
 */
-
+for(var i=1;i<101;i++){
+   console.log(i) 
+}
 
 
 /*
